@@ -102,8 +102,23 @@ i-personalisation des timeout
 
 ![s10-personalisation des timeout](https://user-images.githubusercontent.com/31516436/174910251-2a11dff3-a4bd-4260-bc85-4d99f8cfc633.jpg)
 
+Partie 3 : Sécurité des micro services
 
-Partie 3: Kafka
+-Page index
+
+![image](https://user-images.githubusercontent.com/31516436/174910611-857f7e57-6b6d-48b0-9adc-7bd875739899.png)
+
+-Tentative d'accées aux produits
+
+![image](https://user-images.githubusercontent.com/31516436/174910677-0abd4f35-ce41-444e-9db3-973f55898a39.png)
+
+-authentification pour entré au products
+
+![image](https://user-images.githubusercontent.com/31516436/174910722-8183bbb2-066c-4c66-b926-2604d1a85371.png)
+
+
+
+Partie 4: Kafka
 
 b-un micro-service Spring Boot qui permet de simuler un Producer KAFKA qui 
 permet d’envoyer à un tompic « FACTURATION » à chaque seconde un message 
