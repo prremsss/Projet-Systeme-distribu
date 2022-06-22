@@ -25,7 +25,8 @@ b-Inventory Service
 
 -Consultation des produits en utilisant le Gateway et eureka
 
-![utilisation de gateway et eureka 2](https://user-images.githubusercontent.com/31516436/173162741-44693597-0e59-4f0e-8704-0a6268f4ef78.jpg)
+![image](https://user-images.githubusercontent.com/31516436/175113644-689393e1-908e-4f54-921e-dc994766edcc.png)
+
 
 c-Billing service
 
